@@ -1,12 +1,14 @@
 [
   {
-    "uuid": "379627855cb040e3a5516f3ac6c2ff38",
     "username": "Sosezz",
     "total_spent": "9532.22"
   },
   {
-    "uuid": "379627855cb040e3a5516f3ac6c2ff38",
     "username": "Sosezz2",
     "total_spent": "9999.22"
+  },
+  {
+    "username": "DavidLezz",
+    "total_spent": "101"
   }
 ]
